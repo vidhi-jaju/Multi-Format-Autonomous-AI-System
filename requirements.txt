@@ -1,0 +1,8 @@
+   fastapi
+   uvicorn
+   sqlalchemy
+   textblob
+   pydantic
+   PyPDF2
+   requests
+   python-multipart
